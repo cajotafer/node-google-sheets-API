@@ -1,0 +1,27 @@
+{
+  "name": "google-sheets-api",
+  "version": "1.0.0",
+  "description": "Google Sheets API guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cajotafer/node-google-sheets-API.git"
+  },
+  "keywords": [
+    "google",
+    "sheets",
+    "node"
+  ],
+  "author": "Cajotafer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cajotafer/node-google-sheets-API/issues"
+  },
+  "homepage": "https://github.com/cajotafer/node-google-sheets-API#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
